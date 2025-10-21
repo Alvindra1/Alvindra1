@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alvindra</h1>
+- 🌱 I’m currently learning **computer vision, and deep learning**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alvindra-sukalaksana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvindra-sukalaksana" height="30" width="40" /></a>
+<a href="https://kaggle.com/alvindrasukalaksana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alvindrasukalaksana" height="30" width="40" /></a>
 <a href="https://instagram.com/alvindra.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvindra.1" height="30" width="40" /></a>
 </p>
 
